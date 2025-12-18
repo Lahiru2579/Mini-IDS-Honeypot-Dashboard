@@ -16,6 +16,15 @@ This project uses three main parts working together:
 * **HTML/CSS:** To make the dashboard look like a professional security screen.
 
 ## 🚀 How to Run
+
+**Prepare Your Project Folder**
+Could you please ensure that all your files are stored in one folder on your computer? Your folder should look like this:
+📁MINI IDS
+   -dashboard_ids.py
+   -honeypot.py
+   📁 templates
+      -dashboard.html
+
 1. Make sure you have Python installed.
 2. Install the needs: `pip install flask scapy`
 3. Create a test.py and run this.
