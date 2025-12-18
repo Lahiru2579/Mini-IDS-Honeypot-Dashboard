@@ -41,3 +41,6 @@ Could you please ensure that all your files are stored in one folder on your com
 6. Run the dashboard (as Administrator/Sudo):
    ```bash
    python dashboard_ids.py
+
+ Additionally,To test the honeypot.py, run the following command in Windows Command Prompt: 
+* "ncat 127.0.0.1 2222"
