@@ -28,7 +28,7 @@ This project uses three main parts working together:
         pass
 4. Get the interface ID
    #A real IP like 192.168.x.x or 10.x.x.x
-5. Please add the **interface ID Here** that I mentioned to the files `dashboard_ids.py` and `honeypot.py`.
+5. Please add the **interface ID Here** that I mentioned to the files `dashboard_ids.py`
 6. Run the dashboard (as Administrator/Sudo):
    ```bash
    python dashboard_ids.py
