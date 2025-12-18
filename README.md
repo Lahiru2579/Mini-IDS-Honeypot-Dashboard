@@ -18,12 +18,12 @@ This project uses three main parts working together:
 ## 🚀 How to Run
 
 **Prepare Your Project Folder**
-Could you please ensure that all your files are stored in one folder on your computer? Your folder should look like this:
-📁MINI IDS
-   -dashboard_ids.py
-   -honeypot.py
-   📁 templates
-      -dashboard.html
+Could you please ensure that all your files are stored in one folder on your computer? Your folder should look like this:  
+📁MINI IDS (main folder)  
+ -dashboard_ids.py  
+ -honeypot.py  
+ ..📁 templates(sub folder)  
+ -dashboard.html
 
 1. Make sure you have Python installed.
 2. Install the needs: `pip install flask scapy`
